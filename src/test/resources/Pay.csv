@@ -1,0 +1,4 @@
+amount,expected,message
+900,100,Verify payment on 900
+1100,900,Verify payment on 1100
+1000,0,Verify payment on 1000
